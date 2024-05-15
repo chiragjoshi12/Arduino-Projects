@@ -1,6 +1,6 @@
 # Obstacle Avoiding Robot 🤖
 
-![Final Car Image](/Obstacle Avoiding Robot/img/final-car.png)
+![Final Car Image](https://raw.githubusercontent.com/chiragjoshi12/Arduino-Projects/main/Obstacle%20Avoiding%20Robot/img/final-car.png)
 
 ## Components Needed:
 - Arduino Uno or compatible board
@@ -11,7 +11,7 @@
 - Jumper wires
 
 ## Obstacle Avoiding Robot Circuit Diagram:
-![Circuit Diagram](/Obstacle Avoiding Robot/Diagram/diagram.png)
+![Circuit Diagram](https://raw.githubusercontent.com/chiragjoshi12/Arduino-Projects/main/Obstacle%20Avoiding%20Robot/Diagram/diagram.png)
 
 ## Method to Make:
 
