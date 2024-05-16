@@ -1,10 +1,10 @@
-# Bluetooth controlled robot car 🤖
-
 # Mobile Bluetooth Controlled Robot Car 🤖
 
 This repository contains the code and documentation for a mobile Bluetooth-controlled robot car built using Arduino. The car can be remotely operated via a smartphone app, allowing users to control direction, speed, and other features wirelessly.
 
-## Features
+![Final Car](https://raw.githubusercontent.com/chiragjoshi12/Arduino-Projects/main/Bluetooth%20controlled%20robot%20car/img/Thumnail.webp)
+
+## Features ✨
 
 - **Bluetooth Control**: Operate the car from any distance within range of the Bluetooth signal.
 - **Directional Controls**: Change the direction of the car using simple commands sent over Bluetooth.
@@ -20,7 +20,7 @@ This repository contains the code and documentation for a mobile Bluetooth-contr
 - Additional components as listed in the hardware requirements section below
 - A smartphone with Bluetooth capabilities
 
-### Hardware Requirements
+### Hardware Requirements 🧰
 
 - Arduino Uno/Mega
 - HC-05/06 Bluetooth Module
@@ -30,7 +30,7 @@ This repository contains the code and documentation for a mobile Bluetooth-contr
 - Battery
 - Chassis
 
-### Software Requirements
+### Software Requirements 🖥️
 
 - Arduino IDE installed on your computer
 - Smartphone app for controlling the car (details provided in the documentation)
@@ -50,10 +50,10 @@ This repository contains the code and documentation for a mobile Bluetooth-contr
 
 ## Diagrams
 
-![Car Diagram](path/to/car_diagram.png)
+![Car Diagram](https://raw.githubusercontent.com/chiragjoshi12/Arduino-Projects/main/Bluetooth%20controlled%20robot%20car/Diagram/Arduino%20circuit%20diagram.jpg)
 
 ## Contributing
 
 Contributions to this project are welcome. Please feel free to submit pull requests or report issues.
 
-## Made With ❤️ By Chirag Joshi 👨‍💻 [chiragjoshi12](https://github.com/chiragjoshi12/) & [princejoshi12](https://github.com/princejoshi12/)
+### Made With ❤️ By [Chirag Joshi](https://github.com/chiragjoshi12/) & [Prince Joshi](https://github.com/princejoshi12/) 👨‍💻
