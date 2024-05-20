@@ -1,3 +1,5 @@
+![Arduino Projects](https://raw.githubusercontent.com/chiragjoshi12/Arduino-Projects/main/img/banner.png)
+
 # Arduino Projects 🚀
 
 Welcome to the **Arduino Projects** repository! Explore a variety of exciting DIY Arduino projects, complete with code, wiring diagrams, and images. Perfect for hobbyists, students, and makers looking to dive into the world of Arduino.
