@@ -47,4 +47,4 @@
 Here is a simple example of how to control the robot using the ultrasonic sensor to avoid obstacles:
 
 ## Made With ❤️ By Chirag Joshi
-[**Check out my GitHub profile here 👨‍💻**](https://github.com/chiragjoshi12/)
+[**Check out my GitHub profile here 👨‍💻**](https://github.com/chiragg-ai/readme-generator)
