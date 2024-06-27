@@ -56,4 +56,4 @@ This repository contains the code and documentation for a mobile Bluetooth-contr
 
 Contributions to this project are welcome. Please feel free to submit pull requests or report issues.
 
-### Made With ❤️ By [Chirag Joshi](https://github.com/chiragjoshi12/) & [Prince Joshi](https://github.com/princejoshi12/) 👨‍💻
+### Made With ❤️ By [Chirag Joshi](https://github.com/chiragg-ai/) & [Prince Joshi](https://github.com/princejoshi12/) 👨‍💻
