@@ -1,6 +1,6 @@
 #include <Servo.h>          //Servo motor library. This is standard library 
 #include <NewPing.h>        //Ultrasonic sensor function library. You must install this library 
- YouTube Channel-https://www.youtube.com/c/RobotLk
+
 //our L298N control pins
 const int LeftMotorForward = 7;
 const int LeftMotorBackward = 6;
