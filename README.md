@@ -52,4 +52,4 @@ For any questions or suggestions, feel free to open an issue or contact me direc
 
 ---
 
-Readme made with 💖 using [README Generator by Chirag Joshi](https://github.com/chiragg-ai/readme-generator)
+Readme made with 💖 using [README Generator by Chirag Joshi](https://github.com/chiragjoshi12/readme-generator)
