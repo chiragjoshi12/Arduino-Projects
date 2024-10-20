@@ -48,7 +48,7 @@ We welcome contributions! To contribute:
 If you like these projects, please give this repository a star ⭐️. Your support is appreciated!
 
 ## 📬 Contact
-For any questions or suggestions, feel free to open an issue or contact me directly at [ai.chiragjoshi@gmail.com](mailto:ai.chiragjoshi@gmail.com)
+For any questions or suggestions, feel free to open an issue or contact me directly at [chirag.edutorai@gmail.com](mailto:chirag.edutorai@gmail.com)
 
 ---
 
