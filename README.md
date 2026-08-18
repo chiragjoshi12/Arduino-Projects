@@ -1,3 +1,5 @@
+
+
 ![Arduino Projects](https://raw.githubusercontent.com/chiragjoshi12/Arduino-Projects/main/img/banner.png)
 
 # Arduino Projects 🚀
@@ -13,7 +15,7 @@ Welcome to the **Arduino Projects** repository! Explore a variety of exciting DI
 
 ### 2. 🚗 Obstacle Avoiding Robot
 - **Description:** A robot that navigates around obstacles autonomously.
-- **Components:** Arduino, Ultrasonic sensor, Motor driver, DC motors.
+- **Components:** Arduino, Ultrasonic sensor, Motor driver, DC motors, SG90 servo motor.
 - **Instructions:** [View Project](https://github.com/chiragjoshi12/Arduino-Projects/blob/main/Obstacle%20Avoiding%20Robot/readme.md)
 
 `Will Share More & More Project soon`
